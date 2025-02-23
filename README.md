@@ -1,2 +1,2 @@
-# Zoo-
-Projekt na bazy danych
+# Zoo
+Projekt na bazy danych autorstwa Wiktorii Pilak i Klaudii Kadeli
